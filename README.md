@@ -1,1 +1,1 @@
-# stackoverflow-cmake-find-link-example
+Repository for the example projects in the Stackoverflow answer for the Stackoverflow question: [How to use CMake to find and link to the library using install-export and find_package?](http://stackoverflow.com/questions/31537602/how-to-use-cmake-to-find-and-link-to-a-library-using-install-export-and-find-pac)
